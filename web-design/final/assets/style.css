@@ -1,0 +1,112 @@
+img {
+	width: 300px;
+	height: 300px;
+	opacity: 0.8;
+
+}
+
+
+img:hover{
+	opacity: 1.0;
+
+
+}
+
+#nav-bar-container{
+	display: fixed;
+	height: 50px;	
+	width: auto;
+	text-align: right;
+     margin-right: 100px;
+     margin-top: 25px;
+}
+
+
+
+
+#nav-bar-content h1{
+	display: inline-block;
+	font-family: proxima-nova, sans-serif;
+	font-size: 12px;
+	padding-right: 50px;
+	cursor: pointer;
+
+
+}
+
+#nav-bar-content h1:hover{
+	opacity: 0.7;
+
+}
+
+
+
+#music-container1{
+	 width : auto;
+     height : 300px;
+	text-align: center;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+
+
+
+}
+
+
+#music-container1 > div {
+ width: 33%;  
+ display: inline-block;
+
+ text-align: center;
+
+}
+
+#music-box1{
+	cursor:pointer;
+
+
+}
+
+
+#music-box2{
+	cursor:pointer;
+
+
+}
+
+
+#music-box3{
+	cursor:pointer;
+
+
+}
+
+
+#mb1-text{
+
+	font-family: proxima-nova, sans-serif;
+	font-size: 16px;
+}
+
+
+#mb2-text{
+
+	font-family: proxima-nova, sans-serif;
+	font-size: 16px;
+
+}
+
+
+
+
+
+#mb3-text{
+
+	font-family: proxima-nova, sans-serif;
+	font-size: 16px;
+
+}
+
+
+
